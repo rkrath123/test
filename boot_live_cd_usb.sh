@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 export CSM_RELEASE=csm-1.2.0
 export SYSTEM_NAME=drax
 export PITDATA=/var/www/ephemeral
