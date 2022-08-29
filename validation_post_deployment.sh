@@ -16,9 +16,9 @@ RESULT1=$(grep "failed" RESULT)
 
 if [[ -z $RESULT1 ]]
 then
-echo "Install CSM service completed successfully"
+echo "LVM check are  successfull"
 else
-echo "EXIT in install csm service due to error"
+echo "EXIT in LVM service having some issue error"
 exit
 fi
 
